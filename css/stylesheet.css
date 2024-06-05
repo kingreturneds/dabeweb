@@ -11,13 +11,15 @@ body{
 #home{
    position: static;
    z-index: 1;
+   padding:100px ;
+    margin: 10;
 }
 #home h1{
     border: 1px solid black;
     display: flex;
     align-items: center;
     justify-content: center ;
-    padding-top:100px ;
+    padding:60px ;
 }
 #home p{
      border: 1px solid black; 
