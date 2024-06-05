@@ -54,11 +54,12 @@ body{
     border: px solid black; 
     text-decoration: none;
     margin: 19px;
+    color: black;
     
 }
 #home a:hover{
     background-color: blue;
-  
+   
     
 }
 .learn-more{
