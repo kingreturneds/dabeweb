@@ -9,21 +9,32 @@ body{
     width: 100%;    
 }
 #home{
-   position: static;
+    border: 1px solid black;
    z-index: 1;
-   padding:100px ;
-    margin: 10;
+    align-items: center;
+    justify-content: center ;
+    margin: 2px;
+    padding: 10px;
+
 }
 #home h1{
-    border: 1px solid black;
+    border: px solid black;
     display: flex;
     align-items: center;
     justify-content: center ;
-    padding:60px ;
+    padding-top:100px ;
+    font-size: large;
 }
 #home p{
-     border: 1px solid black; 
+     border: px solid black; 
      display: flex;
      align-items: center;
      justify-content: center ;
+}
+#home a{
+    border: px solid black; 
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+    
 }
