@@ -13,8 +13,9 @@ body{
    z-index: 1;
     align-items: center;
     justify-content: center ;
-    margin: 2px;
-    padding: 10px;
+
+    height: 100vh;
+    width: 100%;    
 
 }
 #home h1{
@@ -37,4 +38,7 @@ body{
     align-items: center;
     justify-content: center ;
     
+}
+.learn-more{
+    padding-bottom: 80px;
 }
