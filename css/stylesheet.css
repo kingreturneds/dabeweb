@@ -36,13 +36,22 @@ body{
      font-size: large;
      
 }
-#home a{
-    border: px solid black; 
-    display: flex;
-    align-items: center;
-    justify-content: center ;
-    text-decoration: none;
+.clcik{
     
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+    justify-content: center;
+}
+.clcik ul{
+    justify-content: center;
+}
+#home a{
+ 
+    border: 1px solid black; 
+   
+    text-decoration: none;
+   
 }
 .learn-more{
     
