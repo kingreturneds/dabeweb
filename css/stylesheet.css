@@ -25,18 +25,22 @@ body{
     justify-content: center ;
     padding-top:250px ;
     font-size: 100px;
+    font-family: serif;
 }
 #home p{
      border: px solid black; 
      display: flex;
      align-items: center;
      justify-content: center ;
+     font-size: large;
+     
 }
 #home a{
     border: px solid black; 
     display: flex;
     align-items: center;
     justify-content: center ;
+    text-decoration: none;
     
 }
 .learn-more{
