@@ -26,6 +26,7 @@ body{
     padding-top:250px ;
     font-size: 100px;
     font-family: serif;
+    padding-bottom:10px ;
 }
 #home p{
      border: px solid black; 
@@ -44,5 +45,5 @@ body{
     
 }
 .learn-more{
-    padding-bottom: 80px;
+    
 }
