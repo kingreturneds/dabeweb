@@ -3,7 +3,7 @@
     margin: 0%;
 }
 body{
-    background-color: rgb(184, 184, 184);
+    background-image: url(../img/pexels-thatguycraig000-1563356.jpg);
     background-size: 100% 100%;
     overflow: hidden;
     height: 100vh;
@@ -11,7 +11,7 @@ body{
 }
 #home{
     border: 1px solid black;
-   z-index: 1;
+     z-index: 1;
     align-items: center;
     justify-content: center ;
 
@@ -28,6 +28,8 @@ body{
     font-size: 100px;
     font-family: serif;
     padding-bottom:10px ;
+    color: rgb(226, 226, 226);
+    text-shadow: 1px 1px 25px black;
 }
 #home p{
      border: px solid black; 
