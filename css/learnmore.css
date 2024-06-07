@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    
 }
 main{
     height: 100vh;
@@ -12,7 +13,11 @@ section {
     display: flex;
     align-items: center; 
      justify-content: center ;
-    background-color: rgb(124, 12, 12);
+    background-color: rgb(190, 190, 190);
     scroll-snap-align: start;
-    scroll-snap-stop: always;
+    scroll-snap-stop: normal;
+    scroll-behavior: smooth;
+    margin: 30px;
+    scroll-padding: 
+    var(--scrollpadding,5rem);
 }
