@@ -3,6 +3,9 @@
     padding: 0;
     
 }
+body{
+    overflow: hidden;
+}
 main{
     height: 100vh;
     overflow-y: scroll;
@@ -10,9 +13,7 @@ main{
 }
 section {
     height: 100vh;
-    display: flex;
-    align-items: center; 
-     justify-content: center ;
+    
     background-color: rgb(190, 190, 190);
     scroll-snap-align: start;
     scroll-snap-stop: normal;
