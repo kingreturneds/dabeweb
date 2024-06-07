@@ -1,5 +1,8 @@
-const navigation =
-    document.querySelector(".primary-navigation");
-const navigationHeight = 
-    navigation.offsetHeight;
-document.documentElement.style.setProperty("--scrollpadding",navigationHeight +"px");
+
+function scrollToPosition(position) {
+    window.scrollTo(0, position);
+  }
+  
+  // Example usage:
+  scrollToPosition(500); // Scrolls to position 500 pixels from the top
+  
