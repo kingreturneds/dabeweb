@@ -63,12 +63,12 @@ body{
     
 }
 #home a:hover{
-    background-color: rgb(64, 173, 1);
+    background-color: rgb(198, 255, 166);
    border: 1px solid black;
    border-radius: 10px;
    transition-duration: 2s;
     
 }
 .learn-more{
-    background-color: aqua;
+    background-color: rgb(51, 51, 51);
 }

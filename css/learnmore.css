@@ -10,6 +10,7 @@ main{
     height: 100vh;
     overflow-y: scroll;
     scroll-snap-type: y mandatory;
+    transition-duration: 1;
 }
 section {
     height: 100vh;
