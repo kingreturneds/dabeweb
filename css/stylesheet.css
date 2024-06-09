@@ -32,11 +32,12 @@ body{
     text-shadow: 1px 1px 25px black;
 }
 #home p{
-     border: px solid black; 
+     border: px solid rgb(189, 188, 188); 
      display: flex;
      align-items: center;
      justify-content: center ;
-     font-size: large;
+     font-size: xx-large;
+     color: rgb(230, 230, 230);
      
 }
 .clcik{
